@@ -1,5 +1,7 @@
 {
   "name": "yecup",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
